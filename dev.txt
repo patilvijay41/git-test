@@ -2,3 +2,4 @@ This is dev file from dev repo
 dev added second line
 
 issue1 added new line
+added new line by dev branch
